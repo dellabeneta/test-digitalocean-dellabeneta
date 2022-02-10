@@ -1,0 +1,28 @@
+Nomes dos recursos:
+Para infra principal - region nyc1
+
+vpc-com
+firewall-com
+websrv-01-com
+websrv-02-com
+dbcluster-com
+app-username-com
+app-database-com
+loadbalancer-com
+dellabeneta.com
+
+
+//-------------------
+
+Nomes dos recursos:
+Para infra de backup - region sfo3
+
+vpc-link
+firewall-link
+websrv-01-link
+websrv-02-link
+dbcluster-link
+app-username-link
+app-database-link
+loadbalancer-link
+dellabeneta.link
