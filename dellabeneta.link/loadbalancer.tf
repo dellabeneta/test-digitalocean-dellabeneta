@@ -4,12 +4,14 @@ resource "digitalocean_loadbalancer" "loadbalancer" {
   vpc_uuid = digitalocean_vpc.vpc_link.id
   redirect_http_to_https = true
 
+  /*
   forwarding_rule {
     entry_port      = 80
     entry_protocol  = "http"
     target_port     = 80
     target_protocol = "http"
   }
+  */
 
   
   forwarding_rule {
