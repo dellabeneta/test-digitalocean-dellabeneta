@@ -1,4 +1,6 @@
-variable "do_token" {}
+variable "do_token" {
+  default = "DIGITALOCEAN_TOKEN"
+}
 
 variable "project_region" {
   type        = string
