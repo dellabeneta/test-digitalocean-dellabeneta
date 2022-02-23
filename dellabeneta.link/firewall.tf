@@ -1,6 +1,5 @@
 resource "digitalocean_firewall" "firewall_link" {
   name = var.firewall_name
-
   droplet_ids = digitalocean_droplet.server[*].id
 
   inbound_rule {
