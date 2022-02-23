@@ -1,6 +1,5 @@
 resource "digitalocean_firewall" "firewall_com" {
   name = var.firewall_name
-
   droplet_ids = digitalocean_droplet.server[*].id
 
   inbound_rule {
@@ -41,5 +40,15 @@ resource "digitalocean_firewall" "firewall_com" {
   outbound_rule {
     protocol              = "icmp"
     destination_addresses = ["0.0.0.0/0", "::/0"]
+  }
+}
+
+
+resource "digitalocean_database_firewall" "firewall_cluster" {
+  cluster_id = digitalocean_database_cluster.dbcluster.id
+  
+  rule {
+    type  = "tag"
+    value = "webserver"
   }
 }

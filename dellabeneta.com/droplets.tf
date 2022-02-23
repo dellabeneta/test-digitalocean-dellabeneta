@@ -6,7 +6,8 @@ resource "digitalocean_droplet" "server" {
   ssh_keys = [digitalocean_ssh_key.dellabeneta.id]
   count    = length(var.droplet_names)
   vpc_uuid = digitalocean_vpc.vpc_com.id
-
+  tags = ["webserver"]
+  
   connection {
     host        = self.ipv4_address
     type        = "ssh"
