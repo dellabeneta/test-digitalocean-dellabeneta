@@ -9,7 +9,6 @@ dellabeneta.link/.terraform/providers/registry.terraform.io/digitalocean/digital
 dellabeneta.link/.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.17.1/windows_amd64/README.md
 dellabeneta.link/.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.17.1/windows_amd64/terraform-provider-digitalocean_v2.17.1.exe
 
-dellabeneta.com/terraform.tfvars
 dellabeneta.com/terraform.tfstate
 dellabeneta.com/terraform.tfstate.backup
 dellabeneta.com/.terraform.lock.hcl
