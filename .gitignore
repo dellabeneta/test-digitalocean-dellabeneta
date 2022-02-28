@@ -21,3 +21,4 @@ dellabeneta.com/.terraform/providers/registry.terraform.io/digitalocean/digitalo
 dellabeneta.com/.terraform.lock.hcl
 dellabeneta.com/terraform.tfstate
 dellabeneta.com/terraform.tfstate.backup
+dellabeneta.com/terraform.tfvars
