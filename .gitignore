@@ -10,3 +10,5 @@ dellabeneta.link/.terraform/providers/registry.terraform.io/digitalocean/digital
 dellabeneta.link/.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.17.1/windows_amd64/LICENSE
 dellabeneta.link/.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.17.1/windows_amd64/README.md
 dellabeneta.link/.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.17.1/windows_amd64/terraform-provider-digitalocean_v2.17.1.exe
+dellabeneta.link/terraform.tfstate
+dellabeneta.link/terraform.tfstate.backup
