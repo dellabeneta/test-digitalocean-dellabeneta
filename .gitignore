@@ -22,3 +22,11 @@ dellabeneta.com/.terraform.lock.hcl
 dellabeneta.com/terraform.tfstate
 dellabeneta.com/terraform.tfstate.backup
 dellabeneta.com/terraform.tfvars
+dellabeneta.com/.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.23.0/windows_amd64/CHANGELOG.md
+dellabeneta.com/.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.23.0/windows_amd64/LICENSE
+dellabeneta.com/.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.23.0/windows_amd64/README.md
+dellabeneta.com/.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.23.0/windows_amd64/terraform-provider-digitalocean_v2.23.0.exe
+dellabeneta.link/.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.23.0/windows_amd64/CHANGELOG.md
+dellabeneta.link/.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.23.0/windows_amd64/LICENSE
+dellabeneta.link/.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.23.0/windows_amd64/README.md
+dellabeneta.link/.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.23.0/windows_amd64/terraform-provider-digitalocean_v2.23.0.exe
